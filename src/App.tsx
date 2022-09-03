@@ -67,7 +67,7 @@ function App() {
       <div className="main-container">
         <Row>
           <Col>
-            <p><b>1</b>. Mở <b>Command Prompt</b> với quyền <b>Admin</b></p>
+            <p><b>1</b>. Mở <b>Command Prompt</b> với quyền <b>Adminnnnn</b></p>
           </Col>
         </Row>
         <Collapse  defaultActiveKey={['1']} accordion>
